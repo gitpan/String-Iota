@@ -1,7 +1,7 @@
-String-Iota version 0.85
+String-Iota version 0.01
 ========================
 
-String::Iota - several simple and useful string processing functions.
+String::Iota - several simple and fast string processing functions
 
 INSTALLATION
 
@@ -12,7 +12,7 @@ To install this module type the following:
    make test
    make install
 
-COPYRIGHT AND LICENCE
+COPYRIGHT AND LICENSE
 
 Copyright (C) 2009 by Lincoln Ombelets
 

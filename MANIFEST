@@ -4,3 +4,4 @@ MANIFEST
 README
 t/String-Iota.t
 lib/String/Iota.pm
+META.yml                                 Module meta-data (added by MakeMaker)
